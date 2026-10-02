@@ -208,7 +208,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 775 hrs 9 mins
+        Python - 775 hrs 4 mins
       </text>
     </g>
   
@@ -222,7 +222,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Terraform - 160 hrs 47 mins
+        Terraform - 160 hrs 46 mins
       </text>
     </g>
   
